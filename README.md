@@ -1,10 +1,10 @@
 <h1 align="center">My Link</h1>
 
-> Rest API to share compliments in defined tags(#leadership #motivation ...)
+> Rest API to share compliments in defined tags (#leadership #motivation ...) with your team
 
 ### 🏠 [Homepage](https://github.com/victorqrz/nlwValoriza)
 
-## Requisitos
+## Requirements
 - Node >= 14.17.1
 - Yarn >= 1.22.1
 
@@ -13,6 +13,7 @@
 - TypeScript
 - Express
 - SQlite
+- TypeORM
 
 ## Lints
 - Eslint
