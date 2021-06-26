@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@types/express": "^4.17.12",
+    "@types/jsonwebtoken": "^8.5.2",
     "@types/uuid": "^8.3.0",
     "express": "^4.17.1",
     "ts-node-dev": "^1.1.6",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.2",
     "typeorm": "^0.2.34",
